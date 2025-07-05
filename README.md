@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/apimatic-apimatic-validator-mcp-badge.png)](https://mseep.ai/app/apimatic-apimatic-validator-mcp)
+
 # APIMatic Validator MCP Server
 
 This repository provides a Model Context Protocol (MCP) Server for validating OpenAPI specifications using [APIMatic](https://www.apimatic.io/). The server processes OpenAPI files and returns validation summaries by leveraging APIMatic’s API.
